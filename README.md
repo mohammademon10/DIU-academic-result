@@ -26,9 +26,11 @@ Clicking the **Go to Academic Result** button will redirect to:
 
 ## 🔹 File Structure
 
-diu-result-landing
-├── index.html # Landing page with button
-└── README.md # This documentation
+diu-result-portal-ui/
+│
+├── index.html          <-- Paste the HTML/CSS code here
+├── README.md           <-- Paste the Markdown text here
+
 
 
 ---
@@ -62,6 +64,7 @@ Role: Student & Developer
 - This landing page is only a **redirect interface**.  
 - It does **not fetch or display actual student results**; all data is retrieved from the official DIU portal.
 - Fully **mobile-friendly** and **modern UI ready** for student use.
+
 
 
 
